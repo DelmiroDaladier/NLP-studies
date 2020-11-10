@@ -4,4 +4,4 @@ Repository containing basic implementations in my Natural Language Processing st
 
 * Basic implementations of n-grams (PT-BR)
 * Naive Bayes Sentiment Analysis
-* Machine Translation
+* Machine Translation (En-Fr)
